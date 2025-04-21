@@ -1,4 +1,4 @@
-# 🛍️ DANGSTORE - Proyecto de Gestión y Ventas de Llaveros Pixelados
+# 🛍️ DANGSTORE - Proyecto de Gestión y Ventas de figuras de pixel.
 
 ## 🧠 Información del Equipo
 - **Nombre del equipo:** DANGSTORE Developers
