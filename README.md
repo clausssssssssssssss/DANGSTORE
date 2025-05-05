@@ -16,9 +16,9 @@ Con el objetivo de modernizar su proceso de gestión y ventas, desarrollamos una
 - **Aplicación móvil Android (Administrador):** Gestión de productos, ventas, inventario y pedidos.
 - **Página web pública (Cliente final):** Visualización de catálogo, encargo de llaveros personalizados, compra en línea y reseñas de productos.
 
-## 🛠️ Tecnologías Utilizadas (Stack MERN + Android)
+## 🛠️ Tecnologías Utilizadas (Stack MERN)
 - **Frontend Web:** React.js
-- **Frontend Móvil:** Android Studio (Kotlin o Java según elección)
+- **Frontend Móvil:** Read
 - **Backend:** Node.js + Express.js
 - **Base de Datos:** MongoDB Atlas
 - **Control de versiones:** Git / GitHub
