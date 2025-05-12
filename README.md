@@ -1,7 +1,7 @@
 # 🛍️ DANGSTORE - Proyecto de Gestión y Ventas de figuras de pixel.
 
 ## 🧠 Información del Equipo
-- **Nombre del equipo:** DANGSTORE Developers
+- **Nombre del equipo:** DANGSTORE 
 - **Integrantes:**
   - Claudia Maria Hernandez Ortega
   - Ruth Geraldine Fuentes Ramirez
